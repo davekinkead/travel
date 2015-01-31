@@ -1,0 +1,30 @@
+
+
+.meta {
+  font-size: 0.9rem;
+  color: lighten($text-color, 15%);
+  text-transform: capitalize;
+}
+
+.post {
+  margin-top: 100px; 
+
+  .title  {
+    margin-bottom: 0;
+    line-height: 1;  
+  }  
+
+  .content {
+    img {
+      margin: 0.5rem 0;
+
+      &:first-child {
+        margin-top: 2rem;
+      }
+
+      &:last-child {
+        margin-bottom: 2rem;
+      }
+    }
+  }
+}
