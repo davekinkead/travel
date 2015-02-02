@@ -1,4 +1,49 @@
+.home {
+  h1 {
+      font-size: 2.5rem;
+      margin-top: 75px; 
+  }
 
+  h3 {
+    font-size: 2rem;
+    margin: 2rem auto;
+    color: lighten($text-color, 15%);
+  }
+
+  .title {
+    text-align: center;
+  }
+}
+
+.contents.list {
+
+  counter-reset: posts;
+  list-style-type:none;
+  margin-left: 0;
+
+  li {
+
+    h2 {
+      background-color: $background-color;
+    }
+
+    a:after {
+      counter-increment: posts;
+      content: counter(posts);
+      float: right;
+      text-align: right;
+      position: relative;
+      margin-right: 2rem;
+    }
+
+    a {
+      padding-right: 1rem;
+      line-height: 1;
+      display: inline-block;
+      width: 100%;
+    }
+  }
+}
 
 .meta {
   font-size: 0.9rem;
@@ -27,4 +72,15 @@
       }
     }
   }
+}
+
+.video {
+  display: block;
+  width: 100% !important;
+  height: $base-width * 9/16;
+  margin: 2rem 0;
+
+  //height: auto !important;
+    //width: calc(920px - (#{$spacing-unit} * 2));
+    //height: calc((920px - (#{$spacing-unit} * 2)) * 9 / 16 );
 }
