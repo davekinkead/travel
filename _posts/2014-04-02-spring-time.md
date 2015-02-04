@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Spring Time
+author: Tina
 date:   20 Mar 2014
 categories: travel austria 2014
 ---

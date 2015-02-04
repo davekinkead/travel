@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Learning to Ski
-author: Tina
+author: Dave
 date:   7 Dec 2013
 categories: travel austria 2014
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Christmas
+author: Tina
 date:   27 Dec 2013
 categories: travel austria 2014
 ---
