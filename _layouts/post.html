@@ -12,4 +12,13 @@ layout: default
     {{ content }}
   </article>
 
+  <div class="nav">
+    {% if page.next %} 
+    <hr />
+    <h2><a href="{{ page.next.url }}">Next Chapter: {{ page.next.title }}</a></h2>
+    <p>{{ page.next.excerpt }}</p>
+    {% endif %}
+  </div>
+
+
 </div>
