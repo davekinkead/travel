@@ -21,17 +21,14 @@ Having Krampus follow along into a family living room is very frightening for th
 
 We had family visit us from both Denmark and Australia at Christmas and it was wonderful, my best memory is dancing around the Christmas tree with the presents underneath, literally, while singing Christmas carols. Well we had a miniature tree - placed on a coffetable, but we where more than 50% Danes so we had to dance around it while singing on Christmas eve. _Mr K_ loved it!  It was a great night.
 
-And regarding our miniature plastic tree, we had hoped to buy a real tree for the kids, but didn't know where to find one, as without a car we did not venture too far around! 
-Last minute I did come across the secret spot where the locals bought theirs, but didn't have cash on me, hence I wasn't going there with plans to bring anything back home, It was at the recycling station/council workshop. That was only open twice a week for a few hours - but this is a whole different story, worth it's own chapter! 
+![](/photos/IMG_1379.jpg)
+![church](/photos/IMG_1354.jpg)
+![](/photos/IMG_1392.jpg)
+![](/photos/IMG_1372.jpg)
+![wine](/photos/IMG_1367.jpg)
+![night painting](/photos/IMG_1329.jpg)
+
+And regarding our miniature plastic tree, we had hoped to buy a real tree for the kids, but didn't know where to find one, as without a car we did not venture too far around! Last minute I did come across the secret spot where the locals bought theirs, but didn't have cash on me, hence I wasn't going there with plans to bring anything back home, It was at the recycling station/council workshop. That was only open twice a week for a few hours - but this is a whole different story, worth it's own chapter! 
 
 Back to Christmas eve and dancing around our coffetable - oh Christmas tree, Mr K who was 2 thought it was awesome and had a big smile on his face during every song. 
 This Christmas has been great for the kids; chocolate, toys, presents, markets, St Nicholas & Krampus, snow and loving family members around them to play with, read books with, explore outdoors and ski with.
-
-
-
-
-![](/photos/IMG_1379.jpg)
-![](/photos/IMG_1392.jpg)
-![](/photos/IMG_1367.jpg)
-![](/photos/IMG_1372.jpg)
-![](/photos/IMG_1354.jpg)
