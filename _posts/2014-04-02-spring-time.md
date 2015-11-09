@@ -4,6 +4,7 @@ title:  Spring Time
 author: Tina
 date:   20 Mar 2014
 categories: travel austria 2014
+location: Zillertal, Austria
 ---
 
 Spring weather is just like summer here this march in Zillertal. The direct sunlight is amazingly warm and when there is no wind, you just want to dress down to shorts and t-shirt, i must admit i got caught out dressing too lightly on a few others days where it suddenly was colder after a snow fall.

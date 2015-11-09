@@ -4,6 +4,7 @@ title: "Affaldssortering i Østrig"
 author: Tina
 date:   1 Feb 2014
 categories: travel austria 2014
+location: Zillertal, Austria
 ---
 
 At bo i en Tiroler kommune indebærer først og fremmest affalds sortering, samt at man så afleverer sit nøjeligt sorteret affald på affaldspladsen, det hedder Bauhof,

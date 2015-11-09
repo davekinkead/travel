@@ -38,6 +38,10 @@ img {
     vertical-align: middle;
 }
 
+.with-background .home-icon {
+    color: #fff; fill: #FFFFFF;
+}
+
 /**
  * Figures
  */
@@ -136,7 +140,7 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+@mixin wrapper {
     max-width: -webkit-calc(#{$base-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$base-width} - (#{$spacing-unit} * 2));
     margin-right: auto;

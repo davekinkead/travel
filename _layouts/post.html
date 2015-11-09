@@ -3,12 +3,23 @@ layout: default
 ---
 <div class="post">
 
-  <header class="header">
+  <header class="header" {% if page.cover %} style="background: #DDD url({{page.cover}}) no-repeat center center fixed; background-size: cover;" {% endif %}>
     <h1 class="title">{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="meta">
+      {% if page.location %}{{ page.location }}<br />{% endif %}
+      {{ page.date | date: "%-d %b %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}<br />
+      {% if page.author %} by {{ page.author }}{% endif %}
+    </p>
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url }}" class="nav-arrow left"><i class="fa fa-angle-left"></i></a>
+    {% endif %}
+    {% if page.next.url %}
+      <a href="{{ page.next.url }}" class="nav-arrow right"><i class="fa fa-angle-right">
+    {% endif %}
+    </i></a>
   </header>
 
-  <article class="content">
+  <article id="content" class="content">
     {{ content }}
   </article>
 

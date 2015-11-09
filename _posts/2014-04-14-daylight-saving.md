@@ -4,6 +4,7 @@ title:  Daylight Saving
 author: Tina
 date:   2 Apr 2014
 categories: travel austria 2014
+location: Zillertal, Austria
 ---
 
 Yesterday we where supposed to go for a hike, but only the first 1km was during forrest, the rest became a village walk, which also was very nice and the rest a walk along the river for home leg. Silje has become so fit and good at walking while over there this winter, she had no problem doing the 6km walk, it was slow and with breaks but the skiing and all the walking around to shops with me has done her good.

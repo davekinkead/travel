@@ -4,6 +4,7 @@ title:  Dressing for Winter
 author: Tina
 date:   7 Jan 2014
 categories: travel austria 2014
+location: Zillertal, Austria
 ---
 
 We arrived at Ried im Zillertal with just enough winter clothing to get us from the airport to our new home. Old ski gear for mum and dad, hand me down starfish suit for the youngest and a flash new green Quicksilver ski set for the oldest, purchased with a slight discount at an Brisbane ski store at the end of the Australian winter. 

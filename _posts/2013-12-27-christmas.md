@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Christmas
+title:  Christmas Time
 author: Tina
-date:   27 Dec 2013
+date: 27 Dec 2013
+cover: /photos/IMG_1354.jpg
+location: Zillertal, Austria
 categories: travel austria 2014
 ---
 

@@ -4,6 +4,7 @@ title:  Paper Work
 author: Dave
 date:   20 Feb 2014
 categories: travel austria 2014
+location: Zillertal, Austria
 ---
 
 If it's one thing that Austrian's like more than recycling, it's paper work.  Sure, everything works like clockwork but I suspect that's because all the normal chaos and spontaneity of life that might make a train run 30 seconds late failed to make it through the _AdhocOrSpontaneousActivityRequestForm_ that first had to be filled out in triplicate before hand.
