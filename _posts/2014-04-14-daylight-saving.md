@@ -12,5 +12,3 @@ Yesterday we where supposed to go for a hike, but only the first 1km was during 
 The zillertal is suitably wide at the bottom of the valley to be giving us lots of sun, and the eastern side of the valley gets most at the end of the day as the sun sets.
 
 We have just gone into summertime and changed the clocks an hour forward, so now it will be daylight till 20.00 instead of 19.00
-
-asdfasfasdf
